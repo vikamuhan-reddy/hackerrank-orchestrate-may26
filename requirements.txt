@@ -1,0 +1,6 @@
+openai
+pandas
+numpy
+python-dotenv
+scikit-learn
+rank_bm25
